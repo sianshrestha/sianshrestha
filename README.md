@@ -5,7 +5,7 @@
 - <b>Python (Data Structure & Algorithm Practice)</b>
   - [freeCodeCamp Scientific Computing with Python Projects](https://github.com/sianshrestha/Freecodecamp-Scientific-Computing-with-Python-Project)
 
-<h2>🎓 Certifications</h2>
+<h2>🎓 Certifications:</h2>
 
 - [freeCodeCamp Scientific Computing with Python](https://www.freecodecamp.org/certification/sianshrestha/scientific-computing-with-python-v7)
 - [freeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/certification/sianshrestha/data-analysis-with-python-v7)
