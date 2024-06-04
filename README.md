@@ -7,6 +7,7 @@
 
 <h2>🎓 Certifications:</h2>
 
+- [Ethical Hacking Essentials (EHE) by EC-Council](https://codered.eccouncil.org/certificate/cc61e55c-4cc4-4f6e-bd37-2f6ba237ade5?logged=true)
 - [freeCodeCamp Scientific Computing with Python](https://www.freecodecamp.org/certification/sianshrestha/scientific-computing-with-python-v7)
 - [freeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/certification/sianshrestha/data-analysis-with-python-v7)
 
