@@ -7,6 +7,8 @@
 
 <h2>🎓 Certifications:</h2>
 
+- [Become an Ethical Hacker - LinkedIn Learning Path](https://www.linkedin.com/learning/certificates/f309de80322414ca14ca6d96ffeaf100dc98c23046f319e971befd0b40d6ca88?u=73656306)
+- [Offensive Penetration Testing by Cybrary](https://app.cybrary.it/courses/api/certificate/CC-01e767e6-f084-47a5-9e6a-be2a6bec6710/view)
 - [Ethical Hacking Essentials (EHE) by EC-Council](https://codered.eccouncil.org/certificate/cc61e55c-4cc4-4f6e-bd37-2f6ba237ade5?logged=true)
 - [freeCodeCamp Scientific Computing with Python](https://www.freecodecamp.org/certification/sianshrestha/scientific-computing-with-python-v7)
 - [freeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/certification/sianshrestha/data-analysis-with-python-v7)
