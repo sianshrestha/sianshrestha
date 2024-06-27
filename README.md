@@ -2,7 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python (Data Structure & Algorithm Practice)</b>
+- <b>🛜 Cybersecurity Projects</b>
+ - [Cybersecurity Projects](https://github.com/sianshrestha/Cybersecurity-Projects)
+
+- <b>🐍 Python (Data Structure & Algorithm Practice)</b>
   - [freeCodeCamp Scientific Computing with Python Projects](https://github.com/sianshrestha/Freecodecamp-Scientific-Computing-with-Python-Project)
 
 <h2>🎓 Certifications:</h2>
