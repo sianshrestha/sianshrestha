@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>👾 Cybersecurity Projects:</b>
+- <b>👾 Cybersecurity:</b>
   - [Cybersecurity Projects](https://github.com/sianshrestha/Cybersecurity-Projects)
 
 - <b>🐍 Python (Data Structure & Algorithm Practice):</b>
