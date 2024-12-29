@@ -5,8 +5,9 @@
 - <b>👾 Cybersecurity:</b>
   - [Cybersecurity Projects](https://github.com/sianshrestha/Cybersecurity-Projects)
 
-- <b>🐍 Python (Data Structure & Algorithm Practice):</b>
+- <b>🐍 Python:</b>
   - [freeCodeCamp Scientific Computing with Python Projects](https://github.com/sianshrestha/Freecodecamp-Scientific-Computing-with-Python-Project)
+  - [Python Automation Projects] (https://github.com/sianshrestha/Python-Automation)
 
 <h2>🎓 Certifications:</h2>
 
