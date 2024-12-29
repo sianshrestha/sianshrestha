@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>👾 Cybersecurity:</b>
-  - [Cybersecurity Projects](https://github.com/sianshrestha/Cybersecurity-Projects)
-
 - <b>🐍 Python:</b>
   - [freeCodeCamp Scientific Computing with Python Projects](https://github.com/sianshrestha/Freecodecamp-Scientific-Computing-with-Python-Project)
   - [Python Automation Projects](https://github.com/sianshrestha/Python-Automation)
+
+- <b>👾 Cybersecurity:</b>
+  - [Cybersecurity Projects](https://github.com/sianshrestha/Cybersecurity-Projects)
 
 <h2>🎓 Certifications:</h2>
 
