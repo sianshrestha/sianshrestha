@@ -1,4 +1,4 @@
-<h1>Hi, I'm Siddhanta! <br/><a href="https://github.com/sianshrestha">Programmer</a>, <a href="https://www.linkedin.com/in/sianshrestha/">Aspiring Cybersecurity & AI Student</a>, <a href="https://www.youtube.com/@sianshrestha">Video Editor & Cinematographer YouTuber</a></h1>
+<h1>Hi, I'm Siddhanta! <br/><a href="https://github.com/sianshrestha">Programmer</a>, <a href="https://www.linkedin.com/in/sianshrestha/">Aspiring AI Student</a>, <a href="https://www.youtube.com/@sianshrestha">Video Editor & Cinematographer YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
