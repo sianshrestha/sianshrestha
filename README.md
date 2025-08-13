@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>♨️ Java + Spring Boot:</b>
-  - [Telstra SIM Card Activator](https://github.com/sianshrestha/Telstra-SIM-Activator.git)
   - [ShareMyNotes - Note Sharing Platform](https://github.com/sianshrestha/note-sharing-app.git)
+  - [Telstra SIM Card Activator](https://github.com/sianshrestha/Telstra-SIM-Activator.git)
 
 - <b>🐍 Python:</b>
   - [freeCodeCamp Scientific Computing with Python Projects](https://github.com/sianshrestha/Freecodecamp-Scientific-Computing-with-Python-Project)
