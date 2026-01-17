@@ -13,7 +13,7 @@ A little more about me...
 <div align="center">
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,postgres,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=java,python,postgres,aws,docker,linux" />
   </a>
 </p>
 </div>
@@ -23,7 +23,7 @@ A little more about me...
 <div align="center">
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,git,bash,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=spring,git,github,bash,postman,vscode,idea" />
   </a>
 </p>
 </div>
