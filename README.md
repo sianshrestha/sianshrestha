@@ -32,7 +32,7 @@ A little more about me...
 
 <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Java + Spring Boot:</b>
   - [ShareMyNotes - Note Sharing Platform](https://github.com/sianshrestha/note-sharing-app.git)
-  - [Industrial IoT Device Management Platform](https://github.com/sianshrestha/industry-iot-platform.git)
+  - [Industrial IoT Data Platform](https://github.com/sianshrestha/industry-iot-platform.git)
   - [Telstra SIM Card Activator](https://github.com/sianshrestha/Telstra-SIM-Activator.git)
 
 <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Python:</b>
